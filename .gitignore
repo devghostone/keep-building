@@ -1,0 +1,5 @@
+.vscode/
+
+# Generated Builds
+build/
+web/
